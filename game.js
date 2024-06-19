@@ -62,7 +62,8 @@ const disablebox=()=>
 const showwinner=(winner)=>{
                           
 let msg=document.createElement("h1");
-msg.innerText=`CONGRATULATION,WINNER IS,${winner}`; 
+msg.innerText=`CONGRATULATION,${winner}`; 
+
 msg.style.color='red'
 msgcontenar.append(msg);
 msgcontenar.classList.remove("hide")

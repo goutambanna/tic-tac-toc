@@ -80,25 +80,3 @@ border:3px,solid,black;
 }
 
 
-
-#g1{
-
-width: 100%;
-
-
-
-
-
-
-}
-@media screen and (max-width:480px) 
-{
-#g1{
-
-
-    width: 100px;
-}
-
-
-    
-}
